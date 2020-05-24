@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/fotos"
+        android:orderInCategory="100"
+        android:title="Galería" />
+    
+    <item
+        android:id="@+id/brow"
+        android:orderInCategory="200"
+        android:title="Browser" />
+    
+    <item
+        android:id="@+id/music"
+        android:orderInCategory="300"
+        android:title="Música" />    
+</menu>
