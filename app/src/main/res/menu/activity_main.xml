@@ -12,6 +12,7 @@
     
     <item
         android:id="@+id/music"
-        android:orderInCategory="300"
-        android:title="Música" />    
+        android:orderInCategory="5"
+        android:title="Música" />
+
 </menu>
